@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Страница — 1" id="rtkP-THWJke2h1qW77jF">
+    <mxGraphModel dx="1576" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-2" value="&lt;b&gt;Работа сотрудника ресепшна&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-3" source="NTWObuMz4tzMzjOwpLdK-4" target="NTWObuMz4tzMzjOwpLdK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-9" value="ФИО&lt;br&gt;дата рождения&lt;br&gt;данные&amp;nbsp; о состоянии здоровья&lt;br&gt;прочие данные (место работа)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NTWObuMz4tzMzjOwpLdK-8">
+          <mxGeometry x="-0.0064" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-4" value="Пациент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-3" source="NTWObuMz4tzMzjOwpLdK-7" target="NTWObuMz4tzMzjOwpLdK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-3" source="NTWObuMz4tzMzjOwpLdK-7" target="NTWObuMz4tzMzjOwpLdK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-7" value="Сотрудник&lt;br&gt;ресепшна" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry x="230" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-3" source="NTWObuMz4tzMzjOwpLdK-10" target="NTWObuMz4tzMzjOwpLdK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-10" value="Создание/редактирование медкарты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-3" source="NTWObuMz4tzMzjOwpLdK-11" target="NTWObuMz4tzMzjOwpLdK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-11" value="Запись на приём&lt;br&gt;(excel-файл)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-12" value="Общая папка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-3">
+          <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1060" y="40" width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-19" value="&lt;b&gt;Работа врача&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-17" source="NTWObuMz4tzMzjOwpLdK-22" target="NTWObuMz4tzMzjOwpLdK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-21" value="данные&amp;nbsp; о состоянии здоровья" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NTWObuMz4tzMzjOwpLdK-20">
+          <mxGeometry x="-0.0064" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-22" value="Пациент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-17" source="NTWObuMz4tzMzjOwpLdK-25" target="NTWObuMz4tzMzjOwpLdK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-17" source="NTWObuMz4tzMzjOwpLdK-25" target="NTWObuMz4tzMzjOwpLdK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-25" value="Врач" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry x="230" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-17" source="NTWObuMz4tzMzjOwpLdK-27" target="NTWObuMz4tzMzjOwpLdK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-27" value="Учет анализов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-17" source="NTWObuMz4tzMzjOwpLdK-29" target="NTWObuMz4tzMzjOwpLdK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-29" value="Изменение медкарты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-30" value="Общая папка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-17">
+          <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2080" y="40" width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-48" value="&lt;b&gt;Работа кассира&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-46" source="NTWObuMz4tzMzjOwpLdK-51" target="NTWObuMz4tzMzjOwpLdK-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-50" value="вносит оплату" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NTWObuMz4tzMzjOwpLdK-49">
+          <mxGeometry x="-0.0064" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-51" value="Пациент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-46" source="NTWObuMz4tzMzjOwpLdK-54" target="NTWObuMz4tzMzjOwpLdK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-54" value="Кассир" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry x="230" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-46" source="NTWObuMz4tzMzjOwpLdK-56" target="NTWObuMz4tzMzjOwpLdK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-56" value="ККМ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry x="400" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-59" value="1С Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-46">
+          <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="560" width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-61">
+          <mxGeometry width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-63" value="&lt;b&gt;Работа бухгалтера&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-61">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-61" source="NTWObuMz4tzMzjOwpLdK-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-72" value="Создание и изменение&lt;br&gt;данных о платежах" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NTWObuMz4tzMzjOwpLdK-64">
+          <mxGeometry x="-0.1115" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-66" value="Бухгалтер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-61">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-61" source="NTWObuMz4tzMzjOwpLdK-71" target="NTWObuMz4tzMzjOwpLdK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-71" value="1С Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-61">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-82" value="1С Торговля и склад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-61">
+          <mxGeometry x="400" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1060" y="560" width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-73">
+          <mxGeometry width="970" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-75" value="&lt;b&gt;Работа сотрудника склада&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-73">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-73" source="NTWObuMz4tzMzjOwpLdK-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-77" value="Учёт ТМЦ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NTWObuMz4tzMzjOwpLdK-76">
+          <mxGeometry x="-0.1115" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-78" value="Сотрудник&lt;br&gt;склада" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-73">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NTWObuMz4tzMzjOwpLdK-73" source="NTWObuMz4tzMzjOwpLdK-79" target="NTWObuMz4tzMzjOwpLdK-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-79" value="1С Торговля и склад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-73">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTWObuMz4tzMzjOwpLdK-80" value="1С Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NTWObuMz4tzMzjOwpLdK-73">
+          <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
